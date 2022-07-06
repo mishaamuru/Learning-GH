@@ -1,15 +1,15 @@
 //
 //  ContentView.swift
-//  intro
+//  LearningGH
 //
-//  Created by Mishaa on 2022-07-03.
+//  Created by Mishaa on 2022-07-05.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        Text("Hello, CodeCrew")
             .padding()
     }
 }
